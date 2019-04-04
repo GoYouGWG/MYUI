@@ -1,0 +1,16 @@
+.menu {
+    width: 100%;
+    font-size: 16px;
+}
+
+.menu li {
+    cursor: pointer;
+}
+
+.menu .menu-item {
+    display: inline-block;
+}
+
+.sub-menu-wrap {
+    display: none;
+}
